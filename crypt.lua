@@ -1,3 +1,8 @@
+-- code below is under copyright
+-- tweaked slightly to take less lines and remove some things that
+-- we don't really need. go ahead and take it but make sure to
+-- credit the original owner because well i dont want you to get sued
+-- Lua 5.1+ base64 v3.0 (c) 2009 by Alex Kloss <alexthkloss@web.de>
 local b='ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/'
 function enc(data)
     return ((data:gsub('.', function(x) 
@@ -25,7 +30,9 @@ function dec(data)
         return string.char(c)
     end))
 end
+-- code above is under copyright
 
+-- ok here's my actual stuff
 print('Pick your poison.')
 print('(E)ncrypt, (D)ecrypt')
 local e = io.read()
