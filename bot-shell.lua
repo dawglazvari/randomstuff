@@ -7,6 +7,7 @@
 	Requirements:
 		Knowledge of lua.
 		Access to discordia wiki.
+		Discordia installed in the directory with this file
 		A soul
 
 	Adding a command:
