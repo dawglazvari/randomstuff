@@ -20,7 +20,7 @@
 																	,{'ANOTHER COMMAND','ANOTHER COMMAND HELP'}}
 
 	Feel free to remove this area, but at least credit me for a part in the bot.
-
+	Need help on anything? DM `turret.#1938` on the Discord API discord! (https://discord.gg/discord-api)
 ]]--                                                              i have this comment tag for ocd. i have mild ocd so this is here
 
 local discordia = require('discordia') -- grab discordia libs
