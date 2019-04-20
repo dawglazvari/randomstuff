@@ -4,3 +4,5 @@ its pretty random.
 well, i just have some things i dont care here.
 # can i steal
 yes but dont do plagiarism
+# can you add some of my thingy
+go ahead and open up a issue, i'll add it for ya'
