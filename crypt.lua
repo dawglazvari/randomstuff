@@ -1,3 +1,6 @@
+--name: base64 enc/dec
+--date: unknown
+
 -- code below is under copyright
 -- tweaked slightly to take less lines and remove some things that
 -- we don't really need. go ahead and take it but make sure to

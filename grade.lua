@@ -1,3 +1,6 @@
+--name: test-type grading
+--date: 5.7.19
+
 printf = function(msg,...) io.write(string.format(msg,...)) end
 
 config = {

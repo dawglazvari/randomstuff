@@ -1,3 +1,6 @@
+-- name: Bot Shell for Discord Bot in lua
+-- date: UNKNOWN
+
 --[[
 	Bot Shell for bot in lua
 	made by turret.#1938

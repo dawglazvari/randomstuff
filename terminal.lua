@@ -1,3 +1,6 @@
+--name: terrible terminal requires key
+--date: 5.12.19
+
 os.execute('color a')
 os.execute('cls')
 

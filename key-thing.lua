@@ -1,3 +1,6 @@
+--name: charsum key gen & braker
+--date: 5.12.19
+
 --[[
 	Key Generator and Breaker.
 

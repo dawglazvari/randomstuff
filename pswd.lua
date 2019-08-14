@@ -1,0 +1,4 @@
+--name: high effort password key checking thing
+--date: 6.21.19
+
+local x = 659 local a = function(x,y) return x-y end local b = function(x,y) return x+y end local c = string local d = c.len local e = c.byte local f = function(str) local g = 0 for i=1,d(str) do g = g+e(str,i) end return g end local g = 'Please enter password: ' local h = io local i = h.read local j = print local k = h.write local l = c.sub local m = {203,2,71,135,6,218} local n = 'Correct password.' local o = 'Incorrect password.' k(g) local z = i() if a(d(z),#m) == 1 and f(z) == x and b(e(l(z,1,1)),e(l(z,2,2))) == m[1] and a(e(l(z,2,2)),e(l(z,3,3))) == m[2] and a(e(l(z,3,3)),e(l(z,4,4))) == m[3] and b(e(l(z,4,4)),e(l(z,5,5))) == m[4] and a(e(l(z,5,5)),e(l(z,6,6))) == m[5] and b(e(l(z,6,6)),e(l(z,7,7))) == m[6] then j(n) return end j(o)

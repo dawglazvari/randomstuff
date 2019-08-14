@@ -1,3 +1,6 @@
+--name: fake system error
+--date: 5.13.19
+
 os.execute('cls')
 function printf(msg,...)
 	io.write(string.format(msg,...))

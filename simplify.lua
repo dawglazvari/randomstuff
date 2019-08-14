@@ -1,3 +1,6 @@
+--name: fraction simplifier
+--date: 5.7.19
+
 printf = function(msg,...) io.write(string.format(msg,...)) end
 
 local frac = {x = 0,y = 0}

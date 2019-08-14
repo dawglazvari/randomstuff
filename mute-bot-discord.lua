@@ -1,3 +1,6 @@
+--name: unfinished mute bot from discord
+--date: 5.20.19
+
 local discordia = require('discordia')
 local client = discordia.Client()
 
